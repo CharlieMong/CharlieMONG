@@ -1,4 +1,6 @@
-## Hi there 👋
+## Just a simple man doing simple things.
+
+This is my repo to help with pen testing and seacurity research and such.
 
 <!--
 **CharlieMong/CharlieMONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
