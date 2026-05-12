@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 About
+## About
 
 Over a decade of offensive security experience spanning penetration testing, red teaming, cloud security, and hardware hacking. Background rooted in military communications and enterprise IT, evolved into full-spectrum offensive security research.
 
@@ -10,7 +10,7 @@ Currently: **Security Researcher**
 
 ---
 
-## ⚔️ What I Do
+## What I Do
 
 ```
 Penetration Testing      ████████████████████  Expert
@@ -23,7 +23,7 @@ Hardware Testing         ██████████████████�
 PCI Assessments          ████████████████░░░░  Proficient
 ```
 
-## 🎯 Specialisms
+## Specialisms
 
 - **Goal-based penetration testing** — infrastructure, web, API, mobile, IoT, cloud, Kubernetes
 - **Red team engagements** — adversary simulation, C2, detection evasion
@@ -34,7 +34,7 @@ PCI Assessments          ████████████████░░�
 
 ---
 
-## 📊 Top Skills
+## Top Skills
 
 `Ethical Hacking` `Kali Linux` `API Testing` `Web Application Security` `Red Teaming`
 `Reverse Engineering` `OWASP` `Cloud Security` `PCI Assessments` `Hardware Testing`
