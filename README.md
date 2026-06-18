@@ -20,7 +20,6 @@ Reverse Engineering      ██████████████████�
 Web App / API Testing    ████████████████████  Expert
 Mobile Testing           ██████████████████░░  Advanced
 Hardware Testing         ██████████████████░░  Advanced
-PCI Assessments          ████████████████░░░░  Proficient
 ```
 
 ## Specialisms
@@ -29,7 +28,6 @@ PCI Assessments          ████████████████░░�
 - **Red team engagements** — adversary simulation, C2, detection evasion
 - **Reverse engineering** — Windows & macOS binaries, static & dynamic analysis, code review
 - **Hardware hacking** — hardware and firmware level security assessment
-- **Citrix & Kiosk breakout**, WiFi testing, firewall and GPO configuration reviews
 - **Secure SDLC** — embedding security into development pipelines
 
 ---
@@ -37,8 +35,8 @@ PCI Assessments          ████████████████░░�
 ## Top Skills
 
 `Ethical Hacking` `Kali Linux` `API Testing` `Web Application Security` `Red Teaming`
-`Reverse Engineering` `OWASP` `Cloud Security` `PCI Assessments` `Hardware Testing`
-`Kubernetes` `Vulnerability Research` `Secure Code Review` `ITHC` `ISO 27001`
+`Reverse Engineering` `OWASP` `Cloud Security` `Hardware Testing`
+`Kubernetes` `Vulnerability Research` `Secure Code Review` `ISO 27001`
 
 ---
 
